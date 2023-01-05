@@ -7,4 +7,4 @@ The rules are also not demanding:
 
 However, if you find yourself playing a variation of this game called "rock paper scissors lizard spock" from the Big Bang Theory the ruleset may be slightly different.
 
-Usually, playing a game involves a certain level of strategy, but that when facing humans. Since in this case you are up against a computer the random function does the job. 
+Usually, playing a game involves a certain level of strategy, but that happens when facing humans. Since in this case you are up against a computer the random function does the job. 
