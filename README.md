@@ -3,7 +3,7 @@ Everybody has played rock paper scissors at least once, to make some sort of dec
 The rules are also not demanding: 
 - Rock smashes scissors.
 - Paper covers rock.
--Scissors cut paper. 
+- Scissors cut paper. 
 
 However, if you find yourself playing a variation of this game called "rock paper scissors lizard spock" from the Big Bang Theory the ruleset may be slightly different.
 
